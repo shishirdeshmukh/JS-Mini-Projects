@@ -7,7 +7,6 @@
     font-family: system-ui, sans-serif;
     color: black;
     background-color: white;
-   
   }
   
   nav {
@@ -44,16 +43,11 @@
   h1 {
     font-weight: bold;
     font-size: 1.5rem;
-    text-align: center;
   }
   
   .projects {
-    text-align: center;
     display: flex;
     flex-direction: column;
-    width: 65%;
-    padding-left: 35%;
-    
   }
   
   .project-link {

@@ -1,25 +1,24 @@
 .container {
     width: 575px;
-    height: 825px;
-  
+    height: 600px;
     background-color: #797978;
-    padding-left: 30px;
+    text-align: center;
   }
   #height,
   #weight {
-    width: 150px;
+    width: 100px;
     height: 25px;
     margin-top: 30px;
+    text-align: center;
   }
   
   #weight-guide {
-    margin-left: 75px;
+    
     margin-top: 25px;
   }
   
   #results {
     font-size: 35px;
-    margin-left: 90px;
     margin-top: 20px;
     color: rgb(241, 241, 241);
   }
@@ -27,10 +26,9 @@
   button {
     width: 150px;
     height: 35px;
-    margin-left: 90px;
     margin-top: 25px;
     background-color: #fff;
-    padding: 1px 30px;
+    padding-bottom: 7%;
     border-radius: 8px;
     color: #212121;
     text-decoration: none;
@@ -40,7 +38,7 @@
   }
   
   h1 {
-    padding-left: 15px;
+    text-align: center;
     padding-top: 25px;
     
   }
