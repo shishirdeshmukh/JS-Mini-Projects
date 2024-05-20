@@ -2,6 +2,8 @@
 
 ## Project link
 
+https://shishirdeshmukh.github.io/JS-Mini-Projects/
+
 # Solution Code
 
 ## Project1
